@@ -32,5 +32,6 @@ Tech Stacks
  
  
 postman collection having all the API's is uploaded in this git repository project.
+Requirement document is added.
  
  
