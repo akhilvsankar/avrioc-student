@@ -3,14 +3,14 @@ Student management module for Avrioc
 
 Tech Stacks 
  
- Java 11 - Version 11 of java as programming language
- Spring Boot - Application framework
- Spring Boot Web Flux - For reactive programming
- Spring Security - for security using JWT
- Spring Bean Validator - for validating incoming request
- Mongo DB - Database used
- Spring Data MongoDB - ORM framework
- Lombok - Annotation based java library for reducing boiler plate code
+ Java 11 - Version 11 of java as programming language,
+ Spring Boot - Application framework,
+ Spring Boot Web Flux - For reactive programming,
+ Spring Security - for security using JWT,
+ Spring Bean Validator - for validating incoming request,
+ Mongo DB - Database used,
+ Spring Data MongoDB - ORM framework,
+ Lombok - Annotation based java library for reducing boiler plate code,
  Junit 5 - Testing framework
  
  WorkFlow
